@@ -1,7 +1,6 @@
 from pynput.keyboard import Key, Listener
 import logging
 import sys
-import getopt
 import progressbar
 import time
 
